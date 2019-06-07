@@ -1,13 +1,15 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: lightblue;
+    font-size: medium;
+    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+    background-color: #F5F5DC; /* beige */
+    color: #191970; /* midnight */
 }
 
-
-div.relative {
-  position: relative;
-  left: 500px;
+p {
+    margin: 10px auto;
+    margin-left: 5px;
 }
 
 nav ul, footer ul {
