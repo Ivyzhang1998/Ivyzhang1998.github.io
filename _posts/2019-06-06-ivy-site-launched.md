@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First post of Ivy Zhang --launced website"
+title: "Ivy Launches her website!"
 date: 2019-06-06
 ---
 
 Hi guys! I just created my first personal website hosted by Github today!
-I look forward to sharing my life update/experience with you guys!
+Can't wait to share my life update/experience in the future!!
