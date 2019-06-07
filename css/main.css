@@ -4,6 +4,7 @@ body {
     background-color: lightblue;
 }
 
+
 div.relative {
   position: relative;
   left: 500px;
