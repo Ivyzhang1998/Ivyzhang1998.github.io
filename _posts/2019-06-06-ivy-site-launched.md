@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ivy Launches her website!"
+title: "Ivy launched her website!"
 date: 2019-06-06
 ---
 
