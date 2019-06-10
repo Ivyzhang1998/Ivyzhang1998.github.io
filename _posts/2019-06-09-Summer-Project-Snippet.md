@@ -6,7 +6,7 @@ date: 2019-06-09
 
 This summer I am working on the [Dark Reaction Project](https://darkreactions.haverford.edu/) with [Sorelle Friedler](http://sorelle.friedler.net/) at [Haverford College](https://www.haverford.edu/). The broad goal of this project is to use machine learning techniques to predict the outcomes of chemistry reaction. I am mainly working on the code side with another student, and there are also a couple of people working on the research side, which focuses on developing and applying interpretability techniques of machine learning model. I would like to briefly share what I have learned and done in the past two weeks:
 
-## Structure Of My Part
+## Structure of My Part
 
 I am mainly responsible for rewriting and extracting major functions in the recommendation engine. The reason why we rewrote the entire part is that the existing codebase is a bit messy and not working right now. Originally, all the three parts above (Reaction generators + ML model+ recommendation system) are connected with a MySQL Database. The Database is then connected with GUI, where the chemists can enter data (PH values, compound names and their mass etc), and the entire project is dependent on *Django* framework. These overall set a lot of limitations and inconvenience for usage. That’s why we are starting to rewrite these parts independently from current Database and *Django* so that they can flexibly take any form of argument and machine learning model.
 
